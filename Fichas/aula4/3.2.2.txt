@@ -1,0 +1,2 @@
+  O programa não teria alterações a não ser no menu Login, que teria de ter um teclado virtual com os números de 0 a 9. 
+  Além disso, haveria uma ordem predefinida para navegar pelos botões da interface: 1 clique - avançar para o próximo botão; 1 clique prolongado - retroceder para o anterior; 2 cliques - selecionar o botão atual.
